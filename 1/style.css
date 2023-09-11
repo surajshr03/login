@@ -1,0 +1,35 @@
+
+/*@import url(http://ww1.googleleapis.com/?terms=api%20software,api%20management%20software,api%20gateway%20software,best%20api%20software,api%20software%20companies);*/
+
+*{
+      margin: 0;
+      padding:0;
+      box-sizing: border-box;
+
+      font-family:sans-serif;
+}
+
+body{
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      min-height: 100vh;
+      background:rgb(59, 104, 78); 
+}
+.wrapper{
+      text-align:center;
+      width: 430px;
+      
+      background:rgb(110, 152, 152); 
+      color: black;
+      
+}
+.wrapper .input-box {    
+      margin:10px 0;
+}
+
+
+
+
+
+
